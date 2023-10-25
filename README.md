@@ -17,7 +17,7 @@ Cellpose/Scyan: KK_BC25_21_1_CellposeScyanv2_KK003.ipynb
 Mesmer/Pixie: KK003_2_Pixie_Cluster_Pixels.ipynb & KK003_3_Pixie_Cluster_Cells.ipynb
 
 
-Downstream analysis using Mesmer/Pixie:
+Downstream analysis using Mesmer/Scyan:
 
 Scanpy and Seaborn: KK_BC25_21_1_Analysis_Mesmerscyanv2_KK003.ipynb
 
