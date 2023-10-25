@@ -1,7 +1,7 @@
 # KoenKemna
 Files used in this project
 
-Segmentation:
+Segmentation: /n
 Mesmer: KK003_1_Segment_Image_Data.ipynb
 Cellpose: cell_segmentation_Cellpose.ipynb & KK003_cell_table_export_CellPose.ipynb
 
